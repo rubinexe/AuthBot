@@ -1,13 +1,11 @@
 {
-  "token": "MTM3NjAzNDE3MTI2ODYzMjYzNg.Gay2mQ.hK2iMpAZTMBSDP48j3MQ5xPzXfGR_KCy96jylo",
-  "secret": "KLN5tJaMTXaoXZg_q1CMj_7SjYUkjBhI",
+  "token": "FAKE_TOKEN_1234",
+  "secret": "FAKE_SECRET_5678",
   "id": "1376034171268632636",
   "redirect": "http://127.0.0.1:5000/done",
   "api_endpoint": "https://canary.discord.com/api/v8",
   "logs": [
-    "https://discord.com/api/webhooks/1377249157164695592/oL-j39w0aCTvJrTP0qve80ponx-eU2LoFUM8DSD7BzoTxbWdH2ngvX7Q7oUldc9CxFSk",
-    "https://discord.com/api/webhooks/1377249159085686844/ecxl_yEGDVx2KG7tN_GnqBaP-T9UdGxuK76_lwNc-IUDgEkPW53jU9J-9HJF8Rp5SL1c"
+    "FAKE_WEBHOOK_1",
+    "FAKE_WEBHOOK_2"
   ]
 }
-
-/////////    ALL THESE DETAILS WONT WORK BROTHER, I ALREADY REVOKED THEM, I'M LEAVING IT LIKE THIS HERE SO YOU CAN SEE HOW IT LOOKS LIKE :)
